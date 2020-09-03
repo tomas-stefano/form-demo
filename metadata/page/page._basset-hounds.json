@@ -1,0 +1,18 @@
+{
+  "_id": "page._basset-hounds",
+  "_type": "page.content",
+  "components": [
+    {
+      "_id": "page._basset-hounds--content",
+      "_type": "content",
+      "html": "Yay!"
+    }
+  ],
+  "heading": "You chose well!",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "/basset-hounds"
+}
